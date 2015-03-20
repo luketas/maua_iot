@@ -1,0 +1,6 @@
+a= int(raw_input("digite um numero"))
+b = int(raw_input("digite um segundo numero"))
+c = int(raw_input("digite um terceiro numero"))
+soma = a + b +c 
+media = (soma/3)
+print media
