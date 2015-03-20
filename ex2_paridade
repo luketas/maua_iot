@@ -1,0 +1,6 @@
+a = int(raw_input("digite um numero: ")
+b = a%2
+if b ==0:
+ print "Numero par"
+else:
+print "Numero impar"
