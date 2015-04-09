@@ -15,3 +15,6 @@ while b>0:
 
 media = (soma/a)
 print media
+
+# Nota: 1.0
+# Comentario: *

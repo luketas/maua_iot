@@ -4,3 +4,6 @@ while b>0:
  a = raw_input("Digite uma palavra: ")
  d= a[::-1]
  print d
+
+# Nota: 0.7
+# Comentario: como eu saio do loop?
