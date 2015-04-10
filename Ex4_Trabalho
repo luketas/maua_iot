@@ -1,6 +1,6 @@
-def triangulo(a,b,c):
-    if(c^2!=a^2+b^2):
-        print 'os valores ',a,', ',b,' e ',c,'nao formam um triangulo retangulo'
+def triangulo(x,y,z):
+    if(z^2!=x^2+y^2):
+        print 'os valores ',x,', ',y,' e ',y,'precisam formar um triangulo retangulo'
     else:
-        s=float(a*b)/2
+        s=float(x*b)/2
         print 'A area desse triangulo e: ',s,' u.a.'
