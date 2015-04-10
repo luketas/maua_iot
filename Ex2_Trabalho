@@ -2,14 +2,14 @@ def Dist():
     x=[]
     y=[]
     m=0
-    print 'Informe o numero de pontos'
+    print 'Numero de pontos'
     n = int(raw_input())
     if(n>0):
-        print 'informe as abcissas dos pontos'
+        print 'informe as coordenadas em x:'
         for i in range(1,n+1):
             z=float(raw_input())
             x.append(z)
-        print 'informe as ordenadas dos pontos'
+        print 'informe as coordenadas em y:'
         for j in range(1,n+1):
             z=float(raw_input())
             y.append(z)
