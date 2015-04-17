@@ -4,3 +4,6 @@ c = int(raw_input("digite um terceiro numero"))
 soma = a + b +c 
 media = (soma/3)
 print media
+
+# Nota: 1
+# Comentario: Nao esqueca do .py ;)

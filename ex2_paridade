@@ -4,3 +4,6 @@ if b ==0:
  print "Numero par"
 else:
 print "Numero impar"
+
+# Nota: 0
+# Comentario: Programa nao roda
