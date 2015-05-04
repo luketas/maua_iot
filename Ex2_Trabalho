@@ -19,3 +19,6 @@ def Dist():
                 if(d>m):
                     m=d
     return m
+
+# Nota: 1.0
+# Atenção com a complexidade

@@ -3,5 +3,8 @@ def Polar(Pto1x,Pto1y,Pto2x,Pto2y):
     d2 = distancia(0,0,Pto2x,Pto2y)
     a1 = math.degrees(math.atan2(float(Pto1y), float(Pto1x)))
     a2 = math.degrees(math.atan2(float(Pto2y), float(Pto2x)))
-    print 'Ponto 1: (',d1,',',a1,')' 
+    print 'Ponto 1: (',d1,',',a1,')'
     print 'Ponto 2: (',d2,',',a2,')'
+
+# Nota: 0.5
+# Era pra calcular as coordenadas do vetor formado entre os dois pontos!

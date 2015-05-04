@@ -21,3 +21,6 @@ def GPS():
     print 'Latitude: ',rb,' graus'
     print 'Longitude: ',ra,' graus'
     print 'Altitude: ',1000*h,'m'
+
+# Nota:1.0
+# Ok!
