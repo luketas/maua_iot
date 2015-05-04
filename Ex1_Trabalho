@@ -4,3 +4,6 @@ def distancia(Pto1x,Pto1y,Pto2x,Pto2y):
     d = math.sqrt(math.pow((Pto2x-Pto1x),2)+math.pow((Pto2y-Pto1y),2))
     print 'd = ',d
     return d
+
+# Nota: 1
+# Nomeie os arquivos com .py
